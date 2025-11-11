@@ -48,7 +48,7 @@ public class MapParserTest {
     }
 
     /**
-     * Test for the parseMap method (bad map).
+     * Test for the parseMap method (bad map) .
      */
     @Test
     public void testParseMapWrong1() {
